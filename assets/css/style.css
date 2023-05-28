@@ -49,12 +49,11 @@ a {
 p {
     font-size: 16px;
 }
-
+/* move img file to hmtl file, so i can add an alt attribute*/
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
